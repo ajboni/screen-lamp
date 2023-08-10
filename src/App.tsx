@@ -118,7 +118,7 @@ function App() {
           />
         </div>
         <iframe
-          src="https://ghbtns.com/github-btn.html?user=ajboni&repo=screenlamp&type=star&count=true&size=large"
+          src="https://ghbtns.com/github-btn.html?user=ajboni&repo=screen-lamp&type=star&count=true&size=large"
           width="170"
           height="30"
           title="GitHub"
